@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StringReverser", "StringReverser\StringReverser.pyproj", "{8D6D3C55-ED3E-4291-93A4-595F6F2654E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6D3C55-ED3E-4291-93A4-595F6F2654E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6D3C55-ED3E-4291-93A4-595F6F2654E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C6E90A-F3A1-412F-867F-B45F3BC84D53}
+	EndGlobalSection
+EndGlobal
